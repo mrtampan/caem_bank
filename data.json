@@ -1,0 +1,36 @@
+{
+    "music":[
+        {
+            "name":"Twice Kura Kura",
+            "source":"twice-kurakura.mp3"
+        },
+        {
+            "name":"Twice Cry For Me",
+            "source":"twice-cryforme.mp3"
+        },
+        {
+            "name":"Twice Better",
+            "source":"twice-better.mp3"            
+        },
+        {
+            "name":"Twice I cant stop me",
+            "source":"twice-icantstopme.mp3"            
+        },
+        {
+            "name":"Twice Fanfare",
+            "source":"twice-fanfare.mp3"            
+        },
+        {
+            "name":"Twice More & More",
+            "source":"twice-moreandmore.mp3"            
+        },
+        {
+            "name":"Twice Feel Special",
+            "source":"twice-feelspecial.mp3"            
+        },
+        {
+            "name":"Twice Happy Happy",
+            "source":"twice-happyhappy.mp3"            
+        }
+    ]
+}
