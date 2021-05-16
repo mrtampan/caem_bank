@@ -31,6 +31,62 @@
         {
             "name":"Twice Happy Happy",
             "source":"twice-happyhappy.mp3"            
+        },
+        {
+            "name":"Twice Fancy",
+            "source":"twice-fancy.mp3"            
+        },
+        {
+            "name":"Twice Signal",
+            "source":"twice-signal.mp3"            
+        },
+        {
+            "name":"Twice Knock Knock",
+            "source":"twice-knockknock.mp3"            
+        },
+        {
+            "name":"Twice Dance To Night Away",
+            "source":"twice-dancetonightaway.mp3"            
+        },
+        {
+            "name":"Twice Cheer Up",
+            "source":"twice-cheerup.mp3"            
+        },
+        {
+            "name":"Twice Heart Sheaker",
+            "source":"twice-heart-sheaker.mp3"            
+        },
+        {
+            "name":"Twice Likey",
+            "source":"twice-likey.mp3"            
+        },
+        {
+            "name":"Twice TT",
+            "source":"twice-tt.mp3"            
+        },
+        {
+            "name":"Twice Like Ooh Ahh",
+            "source":"twice-likeoohahh.mp3"            
+        },
+        {
+            "name":"Twice What Is love",
+            "source":"twice-whatislove.mp3"            
+        },
+        {
+            "name":"Twice Yes Or Yes",
+            "source":"twice-yesoryes.mp3"            
+        },
+        {
+            "name":"Twice Candypop",
+            "source":"twice-candypop.mp3"            
+        },
+        {
+            "name":"Twice One More Time",
+            "source":"twice-onemoretime.mp3"            
+        },
+        {
+            "name":"Twice Wake Me Up",
+            "source":"twice-wakemeup.mp3"            
         }
     ]
 }
