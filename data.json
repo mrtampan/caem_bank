@@ -87,6 +87,54 @@
         {
             "name":"Twice Wake Me Up",
             "source":"twice-wakemeup.mp3"            
+        },
+        {
+            "name":"Gfriend Mago",
+            "source":"gfriend-mago.mp3"            
+        },
+        {
+            "name":"Gfriend Apple",
+            "source":"gfriend-apple.mp3"            
+        },
+        {
+            "name":"Gfriend Sunrise",
+            "source":"gfriend-sunrise.mp3"            
+        },
+        {
+            "name":"Gfriend Rough",
+            "source":"gfriend-rough.mp3"            
+        },
+        {
+            "name":"Gfriend Me Gusta tu",
+            "source":"gfriend-mago.mp3"            
+        },
+        {
+            "name":"Gfriend Fever",
+            "source":"gfriend-fever.mp3"            
+        },
+        {
+            "name":"Gfriend Love Whisper",
+            "source":"gfriend-lovewhisper.mp3"            
+        },
+        {
+            "name":"Gfriend Summer rain",
+            "source":"gfriend-summerrain.mp3"            
+        },
+        {
+            "name":"Gfriend Time For the moon night",
+            "source":"gfriend-tftmn.mp3"            
+        },
+        {
+            "name":"Gfriend Navillera",
+            "source":"gfriend-navilera.mp3"            
+        },
+        {
+            "name":"Gfriend American Tourister",
+            "source":"gfriend-americantourister.mp3"            
+        },
+        {
+            "name":"Gfriend FIngertips",
+            "source":"gfriend-fingertip.mp3"            
         }
     ]
 }
