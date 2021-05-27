@@ -1,6 +1,10 @@
 {
     "music":[
         {
+            "name":"Weekly After School",
+            "source":"weekly-afterschool.mp3"
+        },
+        {
             "name":"Twice Kura Kura",
             "source":"twice-kurakura.mp3"
         },
