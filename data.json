@@ -139,6 +139,42 @@
         {
             "name":"Gfriend FIngertips",
             "source":"gfriend-fingertip.mp3"            
+        },
+        {
+            "name":"Redvelvet Peek A Boo",
+            "source":"redvelvet-peekaboo.mp3"            
+        },
+        {
+            "name":"Redvelvet Psycho",
+            "source":"redvelvet-psycho.mp3"            
+        },
+        {
+            "name":"Redvelvet Red Flavor",
+            "source":"redvelvet-redflavor.mp3"            
+        },
+        {
+            "name":"Redvelvet Russian Roullete",
+            "source":"redvelvet-russianroullete.mp3"            
+        },
+        {
+            "name":"Redvelvet Umpah Umpah",
+            "source":"redvelvet-umpah.mp3"            
+        },
+        {
+            "name":"IzOne Panorama",
+            "source":"izone-panorama.mp3"            
+        },
+        {
+            "name":"IzOne La vie Rose",
+            "source":"izone-lavienrose.mp3"            
+        },
+        {
+            "name":"IzOne Fiesta",
+            "source":"izone-fiesta.mp3"            
+        },
+        {
+            "name":"April Tinkerbell",
+            "source":"april-tinkerbell.mp3"            
         }
     ]
 }
