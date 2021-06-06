@@ -175,6 +175,18 @@
         {
             "name":"IzOne Fiesta",
             "source":"izone-fiesta.mp3"            
+        },
+        {
+            "name":"Blackpink LoveSick Girl",
+            "source":"blackpink-lovesickgirl.mp3"            
+        },
+        {
+            "name":"Blackpink As If your last",
+            "source":"blackpink-asifyourlast.mp3"            
+        },
+        {
+            "name":"Blackpink Playing with Fire",
+            "source":"blackpink-playingwithfire.mp3"            
         }
     ]
 }
