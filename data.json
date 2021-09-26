@@ -1,12 +1,16 @@
 {
     "music":[
         {
-            "name":"Weekly After School",
-            "source":"weekly-afterschool.mp3"
+            "name":"Redvelvet Queendom",
+            "source":"redvelvet-queendom.mp3"
         },
         {
-            "name":"April Tinkerbell",
-            "source":"april-tinkerbell.mp3"            
+            "name":"Twice BDZ",
+            "source":"twice-bdz.mp3"
+        },
+        {
+            "name":"Twice Fake And True",
+            "source":"twice-faketrue.mp3"
         },
         {
             "name":"Twice Perfect World",
@@ -203,6 +207,14 @@
         {
             "name":"Blackpink Playing with Fire",
             "source":"blackpink-playingwithfire.mp3"            
+        },
+        {
+            "name":"Weekly After School",
+            "source":"weekly-afterschool.mp3"
+        },
+        {
+            "name":"April Tinkerbell",
+            "source":"april-tinkerbell.mp3"            
         }
     ]
 }
