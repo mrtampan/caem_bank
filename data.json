@@ -1,6 +1,10 @@
 {
     "music":[
         {
+            "name":"Viviz Bopbop",
+            "source":"viviz-bopbop.mp3"
+        },
+        {
             "name":"Redvelvet Queendom",
             "source":"redvelvet-queendom.mp3"
         },
@@ -155,6 +159,14 @@
         {
             "name":"Gfriend FIngertips",
             "source":"gfriend-fingertip.mp3"            
+        },
+        {
+            "name":"Gfriend Sunny Summer",
+            "source":"gfriend-sunnysummer.mp3"            
+        },
+        {
+            "name":"Gfriend Memoria",
+            "source":"gfriend-memoria.mp3"            
         },
         {
             "name":"Redvelvet Peek A Boo",
