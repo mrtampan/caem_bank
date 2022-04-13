@@ -1,6 +1,14 @@
 {
     "music":[
         {
+            "name":"Twice The Feels",
+            "source":"twice-thefeels.mp3"
+        },
+        {
+            "name":"Twice Scientist",
+            "source":"twice-scientist.mp3"
+        },
+        {
             "name":"Viviz Bopbop",
             "source":"viviz-bopbop.mp3"
         },
