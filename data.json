@@ -1,6 +1,10 @@
 {
     "music":[
         {
+            "name":"Twice Doughnut",
+            "source":"twice-doughnut.mp3"
+        },
+        {
             "name":"Twice The Feels",
             "source":"twice-thefeels.mp3"
         },
@@ -169,6 +173,10 @@
             "source":"gfriend-fingertip.mp3"            
         },
         {
+            "name":"Gfriend Glass bead",
+            "source":"gfriend-glassbead.mp3"            
+        },
+        {
             "name":"Gfriend Sunny Summer",
             "source":"gfriend-sunnysummer.mp3"            
         },
@@ -195,6 +203,10 @@
         {
             "name":"Redvelvet Umpah Umpah",
             "source":"redvelvet-umpah.mp3"            
+        },
+        {
+            "name":"Redvelvet Power up",
+            "source":"redvelvet-powerup.mp3"            
         },
         {
             "name":"IzOne Panorama",
