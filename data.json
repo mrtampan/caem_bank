@@ -25,6 +25,14 @@
             "source":"twice-bdz.mp3"
         },
         {
+            "name":"Twice Dahyun & chaeyoung switch to me",
+            "source":"twice-switchtome.mp3"
+        },
+        {
+            "name":"Twice Up No More",
+            "source":"twice-upnomore.mp3"
+        },
+        {
             "name":"Twice Fake And True",
             "source":"twice-faketrue.mp3"
         },
@@ -183,6 +191,10 @@
         {
             "name":"Gfriend Memoria",
             "source":"gfriend-memoria.mp3"            
+        },
+        {
+            "name":"Redvelvet Feel My Ryhthm",
+            "source":"redvelvet-feelmyrhythm.mp3"            
         },
         {
             "name":"Redvelvet Peek A Boo",
