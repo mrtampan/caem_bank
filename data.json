@@ -1,6 +1,5 @@
 {
     "music":[
-        
         {
             "name":"Twice Moonlight Sunrise",
             "source":"twice-moonlightsunrise.mp3"
@@ -28,10 +27,6 @@
         {
             "name":"Twice Doughnut",
             "source":"twice-doughnut.mp3"
-        },
-        {
-            "name":"Viviz Bopbop",
-            "source":"viviz-bopbop.mp3"
         },
         {
             "name":"Twice BDZ",
@@ -144,6 +139,10 @@
         {
             "name":"Twice Wake Me Up",
             "source":"twice-wakemeup.mp3"            
+        },
+        {
+            "name":"Viviz Bopbop",
+            "source":"viviz-bopbop.mp3"
         },
         {
             "name":"Gfriend Mago",
