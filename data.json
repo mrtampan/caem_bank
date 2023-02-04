@@ -1,8 +1,21 @@
 {
     "music":[
+        
         {
-            "name":"Twice Doughnut",
-            "source":"twice-doughnut.mp3"
+            "name":"Twice Moonlight Sunrise",
+            "source":"twice-moonlightsunrise.mp3"
+        },
+        {
+            "name":"Twice Celebrate",
+            "source":"twice-celebrate.mp3"
+        },
+        {
+            "name":"Twice Queen Of Hearts",
+            "source":"twice-queenofheart.mp3"
+        },
+        {
+            "name":"Twice talk that talk",
+            "source":"twice-talkthattalk.mp3"
         },
         {
             "name":"Twice The Feels",
@@ -13,12 +26,12 @@
             "source":"twice-scientist.mp3"
         },
         {
-            "name":"Viviz Bopbop",
-            "source":"viviz-bopbop.mp3"
+            "name":"Twice Doughnut",
+            "source":"twice-doughnut.mp3"
         },
         {
-            "name":"Redvelvet Queendom",
-            "source":"redvelvet-queendom.mp3"
+            "name":"Viviz Bopbop",
+            "source":"viviz-bopbop.mp3"
         },
         {
             "name":"Twice BDZ",
@@ -193,8 +206,16 @@
             "source":"gfriend-memoria.mp3"            
         },
         {
+            "name":"Redvelvet Birthday",
+            "source":"redvelvet-birthday.mp3"            
+        },
+        {
             "name":"Redvelvet Feel My Ryhthm",
             "source":"redvelvet-feelmyrhythm.mp3"            
+        },
+        {
+            "name":"Redvelvet Queendom",
+            "source":"redvelvet-queendom.mp3"
         },
         {
             "name":"Redvelvet Peek A Boo",
