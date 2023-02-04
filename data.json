@@ -141,6 +141,10 @@
             "source":"twice-wakemeup.mp3"            
         },
         {
+            "name":"LE SERAFIM Antifragile",
+            "source":"leserafim-antifragile.mp3"            
+        },
+        {
             "name":"IVE Afterlike",
             "source":"ive-afterlike.mp3"            
         },
@@ -155,6 +159,18 @@
         {
             "name":"Viviz Bopbop",
             "source":"viviz-bopbop.mp3"
+        },
+        {
+            "name":"Viviz Loveade",
+            "source":"viviz-loveade.mp3"
+        },
+        {
+            "name":"Viviz Love lovelove",
+            "source":"viviz-lovelove.mp3"
+        },
+        {
+            "name":"Viviz Rum Pum Pum",
+            "source":"viviz-rumpumpum.mp3"
         },
         {
             "name":"Gfriend Mago",
